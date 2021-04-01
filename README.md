@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![coding](https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif)
+
 As of October 1, 2021, four important things:
 
 - 🏃 Fitness
