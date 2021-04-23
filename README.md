@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+<br/>
+<br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
+</p>
+
+<br/>
+<br/>
+
 ![coding](https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif)
 
 As of October 1, 2021, four important things:
