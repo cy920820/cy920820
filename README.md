@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
 </p>
