@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-![coding](https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif)
+![Kagurazakayashi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cy920820&layout=compact&theme=material-palenight)
 
 As of October 1, 2021, four important things:
 
