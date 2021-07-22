@@ -1,5 +1,7 @@
 <p align="left"> 
-  Visitor count<br>
+  Visitor Count：
+  <br />
+  <br />
   <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
 </p>
 
