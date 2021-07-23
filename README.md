@@ -5,9 +5,9 @@
   <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
 </p>
 
-### Hi there 👋
-
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
+
+### Hi there 👋
 
 <br/>
 
