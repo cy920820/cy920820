@@ -26,5 +26,5 @@ As of October 1, 2021, four important things:
 
 📜 **Wakatime**
 
-![cy920820's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cy928020&layout=compact&theme=material-palenight)
+暂无
 
