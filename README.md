@@ -1,13 +1,11 @@
-<p align="left"> 
+<p align="left">
   Visitor Count：
   <br />
   <br />
   <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
 </p>
 
-<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
-
-### Hi there 👋
+<h2> Hi, I'm YuGao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
 
