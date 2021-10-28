@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/cy920820/count.svg" />
 </p>
 
-<h2> Hi, I'm YuGao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Cui Yang, My Flower name is YuGao. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
 
