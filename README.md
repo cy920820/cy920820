@@ -16,7 +16,7 @@
 2022 Plan:
 
 - 🏃 Fitness, the weight dropped to about 75kg.
-- 👶🏻 Have a healthy baby.
+- 👶 Have a healthy baby.
 - 📚 Plan to read 10 books, list to be determined.
 - 🏡 Start the new house decoration plan, by 2023, 150000 decoration start-up funds will be reserved.
 
