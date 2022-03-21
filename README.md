@@ -13,12 +13,12 @@
 
 <br/>
 
-As of October 1, 2021, four important things:
+2022 Plan:
 
-- 🏃 Fitness
-- 💰 Promotions and raises
-- 🏡 To decorate marriage room
-- 💑 Marriage proposal
+- 🏃 Fitness, the weight dropped to about 75kg.
+- 👶🏻 Have a healthy baby.
+- 📚 Plan to read 10 books, list to be determined.
+- 🏡 Start the new house decoration plan, by 2023, 150000 decoration start-up funds will be reserved.
 
 <br/>
 
