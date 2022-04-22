@@ -7,6 +7,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+  # run on every push on the master branch
+  push:
+    branches:
+      - master
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,11 +25,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./snk/github-user-contribution.gif
-          svg_out_path: ./snk/github-user-contribution.svg
+          outputs: |
+            snk/github-contribution-grid-snake.svg
+            snk/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
+          branch: master
           message: ":rocket: Update"
