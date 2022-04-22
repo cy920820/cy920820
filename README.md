@@ -10,14 +10,14 @@
   <h2 align="center"> Hi, I'm Cui Yang, My Flower name is YuGao. 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   </h2>
-  <br/>
-  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/assets/2022-flags.png" />
 </div>
 
-  - [ ] 🏃 Fitness, the weight dropped to about 75kg.
-  - [ ] 👶 Have a healthy baby.
-  - [ ] 📚 Plan to read 10 books, list to be determined.
-  - [ ] 🏡 Start the new house decoration plan, by 2023, 150000 decoration start-up funds will be reserved.
+<br/>
+
+- [ ] 🏃 Fitness, the weight dropped to about 75kg.
+- [ ] 👶 Have a healthy baby.
+- [ ] 📚 Plan to read 10 books, list to be determined.
+- [ ] 🏡 Start the new house decoration plan, by 2023, 150000 decoration start-up funds will be reserved.
 
 <br/>
 
