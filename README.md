@@ -34,7 +34,7 @@
 <br/>
 
 <!-- 贪吃蛇 代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/snk/github-user-contribution.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/snk/github-contribution-grid-snake.svg" /></div>
 
 <br/>
 
@@ -125,5 +125,5 @@
 
 <!-- Dynamic Quotes -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
