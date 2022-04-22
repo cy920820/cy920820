@@ -18,6 +18,8 @@
   </p>
 </div>
 
+<br/>
+
 <!-- 个人信息入口 -->
 <div align="center">
   <p align="center">
@@ -29,8 +31,12 @@
   </p>
 </div>
 
+<br/>
+
 <!-- 贪吃蛇 代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/snk/github-user-contribution.svg" /></div>
+
+<br/>
 
 # Main Technology stack
 
@@ -49,6 +55,8 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+<br/>
+
 <!-- Technology Stack -->
 <div align="center">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -60,18 +68,24 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+<br/>
+
 <!-- Profile 3D Contrib -->
 <div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
+<br/>
+
 # Stats
 
 <!-- Github Readme Stats -->
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cy920820&show_icons=true&hide=[%22contribs%22]&theme=tokyonight&hide_title=true&hide_border=true&layout=compact"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy920820&layout=compact&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cy920820&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&layout=compact"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy920820&layout=compact&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight"/>
 </div>
+
+<br/>
 
 <!-- Number of days of continuous code submission -->
 <div align="center">
@@ -79,20 +93,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cy920820&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/assets/wing-right.png" />
 </div>
-<br>
+
+<br/>
 
 <!-- Github Profile Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cy920820&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-<br>
 
-<!-- Dynamic Quotes -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</div>
-
-<br>
+<br/>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
@@ -103,6 +112,8 @@
   </tr>
 </table>
 
+<br/>
+
 # Metrics
 
 <!-- Metrics -->
@@ -110,6 +121,9 @@
   <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/github-metrics.svg" alt="base metrics" width="75%"/>
 </div>
 
-</div>
-
 <br/>
+
+<!-- Dynamic Quotes -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
