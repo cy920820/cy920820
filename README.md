@@ -1,14 +1,17 @@
-<!-- 欢迎语 -->
-<h1 align="center"> Hi, I'm Cui Yang, My Flower name is YuGao. 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h1>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/assets/hello.svg" height="175px" />
+</div>
 
 <br/>
 
 <!-- 个人计划 -->
 <div align="left">
+  <!-- 欢迎语 -->
+  <h2 align="center"> Hi, I'm Cui Yang, My Flower name is YuGao. 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  </h2>
   <p>
-    <h3>2022 Flags:</h3>
+    <h2 align="center" height="80px">2022 Flags</h2>
     <br/>
     
     - 🏃 Fitness, the weight dropped to about 75kg.
