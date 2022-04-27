@@ -73,13 +73,6 @@
 
 <br/>
 
-<!-- Profile 3D Contrib -->
-<div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<br/>
-
 # Stats
 
 <!-- Github Readme Stats -->
@@ -114,6 +107,13 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Profile 3D Contrib -->
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
 
 <br/>
 
