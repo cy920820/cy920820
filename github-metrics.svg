@@ -2573,7 +2573,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 91k out of 352m repositories</span>
+                                    <span class="gh">ranked 91.1k out of 352m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 115 times</div>
                             </div>
@@ -2969,7 +2969,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2022, 23:01:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 00:01:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
