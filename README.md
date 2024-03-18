@@ -43,13 +43,6 @@
 
 <br/>
 
-<!-- Just img -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
-</div>
-
-<br/>
-
 &emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
@@ -96,17 +89,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cy920820&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-
-<br/>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=cy920820&theme=dracula&bg_color=FF000000&hide_border=true"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
