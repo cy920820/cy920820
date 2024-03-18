@@ -26,9 +26,7 @@
   <p align="center">
     <a href="https://0x403.com">Blog</a>&nbsp;•&nbsp;
     <a href="https://github.com/cy920820">GitHub</a>&nbsp;•&nbsp;
-    <a href="https://gitee.com/cy920820">Gitee</a>&nbsp;•&nbsp;
-    <!-- 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=cy920820.visitor" alt="访客统计" />
+    <a href="https://gitee.com/cy920820">Gitee</a>
   </p>
 </div>
 
